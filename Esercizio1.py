@@ -6,7 +6,7 @@
 # eta = int(eta) + 10
 # print("Ciao " + nome + "! Tra 10 anni avrai " + str(eta) + " anni!")
 
-
+# VERSIONE 2
 nome = input("Come ti chiami? ")
 eta = int(input("Quanti anni hai? "))
 print(f"Ciao {nome}! Tra 10 anni avrai {eta + 10} anni!\n")

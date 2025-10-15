@@ -6,7 +6,7 @@ Esercizi:
 
 - Definisci una classe Persona con attributi nome e eta e un metodo saluta().
 
-- Leggi un file di testo e conta quante righe contiene.
+- Leggi un file di testo e conta quante righe contiene. Sfrutta un try-catch in caso il file non esista.
 
 - Simula un piccolo database in memoria con una lista di dizionari (es. elenco studenti).
 

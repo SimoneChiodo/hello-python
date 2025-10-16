@@ -6,7 +6,7 @@ Ogni esercizio è stato pensato per esplorare un concetto fondamentale - dalle v
 
 
 ## 🧩 Struttura del progetto
-Il progetto è composto da 5 esercizi principali:
+Il progetto è composto da 5 esercizi:
 
 1. **Input e variabili**
    - Scrivi uno script che chieda nome e età all’utente e stampi quanti anni avrà tra 10 anni..  
